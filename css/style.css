@@ -384,6 +384,7 @@ button:active {
 .mino{
     color: white;
     overflow-y: scroll;
+    height: 25%;
 }
   .footer-distributed {
     background-color: #292c2f;
